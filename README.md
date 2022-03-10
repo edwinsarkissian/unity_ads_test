@@ -1,5 +1,5 @@
 # unity_ads_test
-Hello there.
+Hello!
 This is a test.
 Have a nice day.
 
